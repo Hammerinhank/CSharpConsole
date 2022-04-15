@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dfFXa1EUnBDf7cdU3CQPPc9/kyBdtYXVfbeb4n/EhWgMG0KeCFnXFYRuGKsioWGJWEIkcwM/nFauLpZ2mq+O9w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\htaverni\\Desktop\\KLEBER\\4-Kleber\\VisualStudioCode\\CSharpConsole\\CSharpConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\htaverni\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\htaverni\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
